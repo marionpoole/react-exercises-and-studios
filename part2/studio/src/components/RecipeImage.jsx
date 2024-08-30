@@ -1,3 +1,6 @@
+import recipedata from "./recipe.json";
+import "./styling.css";
+
 function RecipeImage() {
    return;
  }
