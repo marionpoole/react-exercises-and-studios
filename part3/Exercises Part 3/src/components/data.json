@@ -1,0 +1,30 @@
+{
+    "projects": 
+        [
+       { 
+            "location": "Pere Marquette",
+            "trail": "light blue",
+            "difficulty": "moderate",
+            "photo": "https://dnr.illinois.gov/content/dam/soi/en/web/dnr/parks/activity/documents/peremarquette-hikingtrailsmap.pdf"
+        },
+        {
+            "location": "Castlewood State Park",
+            "trail": "river scene trail",
+            "difficulty": "moderate",
+            "photo": "https://www.castlewoodmo.com/images/images_p/560.jpg"
+        },
+        {
+            "location": "Weldon Springs Conservation Area",
+            "trail": "Clark trail",
+            "difficulty": "moderate",
+            "photo": "https://lh3.googleusercontent.com/p/AF1QipPrnshzE6IhN6qWS8vWGtWSrJe6A-4CrQvQ2qMu=s680-w680-h510"
+        },
+        {
+            "location": "Creve Coeur Lake Park",
+            "trail": "lakeview loop trail",
+            "difficulty": "easy",
+            "photo": "https://www.facebook.com/photo/?fbid=922402123253841&set=a.244198674407526&__cft__[0]=AZV34LUv1dkT6riac6p531fAZeSzV6vhk6PfH69H76pOLYBQ7e-eydDB17LgKRd0NrpwbJbGLe-dxOPbb7_-al8s0KHuGtsWRfzi3CNp-comaJ-6XH01UyWn2XEkeoY5-e820tLWmE2YgebMcGsnlRZSI4YTQSfikWAk_Z-bQXcZ4wKqvSRPmdDgNOe6yK7ftWo&__tn__=EH-R"
+        }
+        ]
+    
+}
