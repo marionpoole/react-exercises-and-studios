@@ -1,9 +1,9 @@
 import { useState } from 'react';
 
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://www.erinliveswhole.com/";
+   let authorPhoto = "https://www.erinliveswhole.com/wp-content/uploads/2020/10/about-600x600.jpg";
+   let authorName = "Erin Lives Whole";
 
    return (
       <div>
@@ -17,7 +17,7 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["shredded chicken breast", "buffalo sauce", "plain greek yogurt", "garlic powder", "blue cheese"];
    return(
       <div>
          <h3>Recipe Ingredients</h3>
@@ -36,8 +36,8 @@ const RecipeDescription = () => {
    return (
       <div> 
          <div>
-            <h1></h1>
-            <p></p>
+            <h1>Healthy Buffalo Chicken Salad</h1>
+            <p>Enjoy the spicy, tangy, flavorful taste of this delicious Healthy Buffalo Chicken Salad. Ready in just 10 minutes, this tasty dish is perfect for enjoying multiple ways -- on crackers, bread, salad, you name it!</p>
          </div>
          <div className="recipePhotoBlock">
             <RecipeIngredients />
@@ -49,7 +49,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://www.erinliveswhole.com/wp-content/uploads/2023/09/Buffalochickensalad-7-650x975.jpg" alt="" className="imageUpdates"/>
    );
 }
 
